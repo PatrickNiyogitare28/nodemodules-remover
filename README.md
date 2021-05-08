@@ -1,4 +1,4 @@
-# nodemodules-remover README
+# nodemodules-remover
 
 A vsCode extension to permanently delete nodemodules from the project directory
 
